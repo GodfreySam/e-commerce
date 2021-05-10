@@ -1,2 +1,2 @@
-#a e-commerce reactjs app
+# a e-commerce reactjs app
 honing up to reactjs
